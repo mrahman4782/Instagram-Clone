@@ -34,9 +34,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](IgApp2.gif)
-
 ![](IgApp.gif)
+
+
+![](IgApp2.gif)
 
 GIF's created with [LiceCap](http://www.cockos.com/licecap/).
 
