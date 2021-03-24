@@ -1,6 +1,6 @@
-# Project 3 - *IgApp*
+# Project 3 - *Instagram-Clone*
 
-**IgApp** is a photo sharing app similar to Instagram but using Parse as its backend.
+**Instagram-Clone** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 Time spent: **6** hours spent in total
 
@@ -36,7 +36,9 @@ Here's a walkthrough of implemented user stories:
 
 ![](IgApp2.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![](IgApp.gif)
+
+GIF's created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
